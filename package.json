@@ -1,0 +1,9 @@
+{
+  "name": "assign",
+  "version": "0.1.0",
+  "description": "Implementation of Object.assign",
+  "repository": "github.com/newoga/assign",
+  "author": "Neil Gabbadon",
+  "license": "MIT",
+  "main": "index.js"
+}
